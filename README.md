@@ -1,5 +1,5 @@
-# Repositório do desafio de projeto sobre Git e GitHub
-Primeiro desafio solicitado pela DIO sobre Git e GitHub
+# Desafio de projeto sobre Git e GitHub da DIO
+Repositório criado para o Desafio de Projeto.
 
 ## Links úteis
 [Sintaxe baxica markdown](https://www.markdownguide.org/extended-syntax/)
