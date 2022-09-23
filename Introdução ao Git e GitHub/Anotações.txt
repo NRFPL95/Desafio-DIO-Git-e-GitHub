@@ -1,3 +1,18 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos importantes no Git:
+-Para colar o link do repositório no GitHub:
+git clone <https://link-com-o-nome-do-repositório>
+- Para ver se arquivos foram criados, modificados ou excluídos
+git status
+- Para incluir as alterações de um ou vários arquivos em nosso próximo commit
+git add *
+- Para salvar nossas alterações:
+git commit -m "qual alteração foi feita"
+- Para enviar as alterações para o servidor remoto:
+git push origin main
+
+
+
 Como criar um currículo no GitHub: https://www.youtube.com/watch?v=WfD_S2Vi4qI&t=1304s
