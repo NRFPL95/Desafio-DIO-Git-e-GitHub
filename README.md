@@ -2,4 +2,4 @@
 Primeiro desafio solicitado pela DIO sobre Git e GitHub
 
 ## Links úteis
-[Sintaxe Basica Markdown] (https://www.markdownguide.org/extended-syntax/)
+[Sintaxe baxica markdown] (https://www.markdownguide.org/extended-syntax/)
