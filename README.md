@@ -30,4 +30,5 @@ O Git e o GitHub vão te ajudar a manter atualizado e salvo seu código. Como fa
 
 [Sintaxe básica Markdown](https://www.markdownguide.org/extended-syntax/)
 
+[Como colocar emojis no GitHub](https://emojipedia.org/github/)
 
