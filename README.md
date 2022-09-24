@@ -8,7 +8,7 @@ _Explicando como funciona e porque usar:_
 
 - O GitHub é um complemento para salvar na nuvem e, caso você queira, compartilhar esses arquivos numa espécie de "rede social" do programador onde outros usuário podem colaborar com seus projetos, você poderá colaborar com outros e as empresas vão poder analisar seus projetos para futura contratação.
 
-No curso aprendemos vários comandos que irão te ajudar no Git para criar, analisar, e fazer upload de seu código para o GitHub.
+No curso aprendemos vários comandos que irão te ajudar no Git para criar, analisar e fazer upload de seu código para o GitHub.
 
 -git config --global user.name "Nadia" : te identifica como criador no diretório
 
