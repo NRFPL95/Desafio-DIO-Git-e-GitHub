@@ -12,7 +12,7 @@ No curso aprendemos vários comandos que irão te ajudar no Git para criar, anal
 
 -git config --global user.name "Nadia" : te identifica como criador no diretório
 
--git config --global user.email " seu email aqui" : para vincular futuramente sua conta no GitHub
+-git config --global user.email " seu email aqui " : para vincular futuramente sua conta no GitHub
 
 -git help: Te mostra os comandos mais usados e pra que eles vão servir.
 
