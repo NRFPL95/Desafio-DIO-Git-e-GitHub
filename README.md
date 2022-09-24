@@ -11,13 +11,21 @@ _Explicando como funciona e porque usar:_
 No curso aprendemos vários comandos que irão te ajudar no Git para criar, analisar, e fazer upload de seu código para o GitHub.
 
 -git config --global user.name "Nadia" : te identifica como criador no diretório
+
 -git config --global user.email "seunome@email.com.br" : para vincular futuramente sua conta no GitHub
+
 -git help: Te mostra os comandos mais usados e pra que eles vão servir.
+
 -git init: Criar localmente um repositório 
+
 -git add * : para salvar as alterações 
+
 -git clone < https://link-com-o-nome-do-repositório > : para colar o link do repositório do GitHub
+
 -git status : te mostra se algum arquivo foi criado, modificado ou excluido
+
 -git commit -m "qual alteração foi feita"
+
 -git push origin main : envia as alterações do seu arquivo para o GitHub
 
 Em alguns comandos o Git é parecido com o Prompt de comando, ao navegar pelas pastas, ao criar novas pastas, apagar histórico de comandos etc. 
